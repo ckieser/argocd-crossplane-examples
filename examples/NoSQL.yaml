@@ -3,4 +3,4 @@ kind: NoSQL
 metadata:
   name: my-nosql-database
 spec: 
-  location: "EU"
+  location: "US"
